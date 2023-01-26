@@ -1,7 +1,7 @@
 {
   "name": "my-cheat-app",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@ionic/react": "^6.0.0",
     "@ionic/react-router": "^6.0.0",

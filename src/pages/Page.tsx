@@ -70,13 +70,16 @@ const Page: React.FC = () => {
          {name == "SQL" ? (
           <React.Fragment>
             <IonCard>
-              <img alt="Silhouette of mountains" src="assets/img/var-js.png" />
+              <img alt="Silhouette of mountains" src="assets/img/limit-aql.png" />
             </IonCard>
             <IonCard>
-              <img alt="Silhouette of mountains" src="assets/img/var-js.png" />
+              <img alt="Silhouette of mountains" src="assets/img/update-sql.png" />
             </IonCard>
             <IonCard>
-              <img alt="Silhouette of mountains" src="assets/img/var-js.png" />
+              <img alt="Silhouette of mountains" src="assets/img/delete-sql.png" />
+            </IonCard>
+            <IonCard>
+              <img alt="Silhouette of mountains" src="assets/img/example-of-sql.png" />
             </IonCard>
           </React.Fragment>
         ) : (
